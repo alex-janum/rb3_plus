@@ -3,8 +3,8 @@
    (midi_file "songs_upgrades/afterlife_plus.mid")
    (song_id 1005132)
    (rank
-      (real_guitar 510)
-      (real_bass 441)
+      (real_guitar 535)
+      (real_bass 459)
    )
    (real_guitar_tuning (-2 0 0 0 0 0))
    (real_bass_tuning (-2 0 0 0))
