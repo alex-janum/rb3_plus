@@ -3,7 +3,7 @@
    (midi_file "songs_upgrades/tonightimgonna_plus.mid")
    (song_id 1005750)
    (rank
-      (real_guitar 306)
+      (real_guitar 300)
       (real_bass 246)
    )
    (real_guitar_tuning (0 0 0 0 0 0))
